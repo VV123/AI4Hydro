@@ -1,1 +1,17 @@
-# AI4Water
+# AI4Hydro
+
+## Data
+
+## Method
+
+## Collaborators
+
+[Corpus Christi Water (CCW)](https://www.cctexas.com/departments/water-department)
+
+[WESA Lab](https://www.wesalab.com/)
+
+[AIoE Lab](https://sites.google.com/view/iot-laboratory)
+
+## Sponsor
+
+NSF #2318641
