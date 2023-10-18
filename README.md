@@ -2,7 +2,7 @@
 
 ## Data
 
-## Method
+## How to use
 
 ## Collaborators
 
