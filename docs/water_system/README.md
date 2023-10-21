@@ -12,6 +12,9 @@
 
 *Edge*: coordinate, connectivity of nodes (e.g., <v_i, v_j>), material, slope, and other static pipe features. Invert is the inner bottom of the pipe (or manhole). Flow depth is measured from the elevation of invert.
 
+**Data PreProcessing**
+
+'create_adjacency_matrix.ipynb' transfers the above CSV files to an adjacency matrix that describes the connection of the water system.
 
 
 
