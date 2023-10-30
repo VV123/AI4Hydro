@@ -5,7 +5,38 @@
 
 Directory
 
-
+```
+|-- Data
+|   |-- University
+|   |   |-- art.mshc
+|   |   |-- artnoloc.mshc
+|   |   |-- clientserver.mshc
+|   |   |-- noarm.mshc
+|   |   |-- resources.mshc
+|   |   `-- windowsclient.mshc
+|   `-- City
+|       |-- art.mshc
+|       |-- artnoloc.mshc
+|       |-- clientserver.mshc
+|       |-- noarm.mshc
+|       |-- resources.mshc
+|       `-- windowsclient.mshc
+`-- IndexStore
+    |-- de-DE
+    |   |-- art.mshi
+    |   |-- artnoloc.mshi
+    |   |-- clientserver.mshi
+    |   |-- noarm.mshi
+    |   |-- resources.mshi
+    |   `-- windowsclient.mshi
+    `-- en-US
+        |-- art.mshi
+        |-- artnoloc.mshi
+        |-- clientserver.mshi
+        |-- noarm.mshi
+        |-- resources.mshi
+        `-- windowsclient.mshi
+```
 ## How to use
 
 ## Collaborators
