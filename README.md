@@ -4,7 +4,7 @@
 
 ### TAMU-CC University Site
 
-### City Site
+### Corpus Christi City Site
 
 [Data preprocess](https://github.com/VV123/AI4Hydro/tree/main/data)
 
