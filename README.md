@@ -1,4 +1,4 @@
-# AI4Hydro
+# AI-powered Diagnosis Augmented by Self-sustaining Sensing System for Intelligent Wastewater Infrastructure Management
 
 ## Datasets
 
