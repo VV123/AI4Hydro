@@ -2,7 +2,7 @@
 
 ## Datasets
 
-### TAMU-CC University Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/univ)
+### TAMU-CC University Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/uni)
 
 ### Corpus Christi City Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/city)
 
