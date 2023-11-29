@@ -7,9 +7,10 @@
 
 ### Corpus Christi City Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/city)
 
-[Data preprocess](https://github.com/VV123/AI4Hydro/tree/main/data)
+### Preprocessing
+[generate_adjacency_matrix](https://github.com/VV123/AI4Hydro/tree/main/src)
 
-Directory
+## Directory
 
 ```
 |-- Data
@@ -32,7 +33,6 @@ Directory
         |-- GCN
         `-- Transformer
 ```
-## How to use
 
 ## Collaborators
 
