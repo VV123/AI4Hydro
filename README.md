@@ -6,8 +6,7 @@
 
 ### Corpus Christi City Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/city)
 
-### Preprocessing
-[generate_adjacency_matrix](https://github.com/VV123/AI4Hydro/tree/main/src)
+### Preprocessing [Link](https://github.com/VV123/AI4Hydro/tree/main/src)
 
 ### Models
 - [Graph WaveNet]()
