@@ -10,8 +10,8 @@
 [generate_adjacency_matrix](https://github.com/VV123/AI4Hydro/tree/main/src)
 
 ### Models
-- [GCN]()
 - [Graph WaveNet]()
+- [Time-series Prediction]()
 
 ## Directory
 
