@@ -25,15 +25,15 @@
 |   `-- City
 |       |-- junctions.csv
 |       |-- conduit.csv
-|       |-- chydro.nodes
+|       |-- hydro.nodes
 |       `-- hydro.edges
 `-- src
     |-- preprocess
     |   |-- generate_adjacency_matrix.ipynb
-    |   |-- artnoloc.mshi
-    |   `-- windowsclient.mshi
+    |   |-- generate_adjacency_matrix.py
+    |   `-- TBD
     `-- models
-        |-- GCN
+        |-- Graph WaveNet
         `-- Transformer
 ```
 
