@@ -35,3 +35,8 @@
   - `Total Lat. Inflow (MG)` The volume of lateral inflows (runoff, groundwater flow, dry weather flow, etc.) during the simulation (unit: million gallon). 
   - `Total inflow (MG)` The volume of all inflows during the simulation (unit: million gallon).
   - `Min. Freeboard (ft)` The minimum freeboard depth (unit: ft), i.e., the different between the rim elevation and the maximum HGL.
+
+- WW01.csv
+  
+    Time series water depth for each node.
+
