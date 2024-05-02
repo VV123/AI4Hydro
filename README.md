@@ -25,8 +25,11 @@
     |   `-- generate_adjacency_matrix.py
     `-- models
         |-- GraphWaveNet
+        |-- ST-SSL
+        |-- GMAN
         |-- STGCN
-        |-- ResNet
+        |-- STResNet
+        |-- HydroNet
         `-- Transformer
 ```
 
