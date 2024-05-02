@@ -11,30 +11,27 @@
 
 ## Files and Field Descriptions
 
-- Node file
-  - `id`
-  - `coordinate`
-  - `Invert` is the inner bottom of the pipe (or manhole)
-  - `Flow depth` is measured from the elevation of the invert.
+- Node features
+  - `Length (ft)` The length of the sewer pipe between two manholes (unit: ft).
+  - `Roughness` The roughness of the pipe materials (unitless). Larger roughness results in more friction loss. 
+  - `Geom1(ft)` The diameter of the pipe (unit: ft). All pipes have circular sections.
+  - `Slope (ft/ft)` The slope of the pipe (unitless), i.e., the elevation difference between the two ends of the pipe divided by the length of the pipe. 
+  - `Max. |Flow| (cfs)` The maximum rate of the pipe flow during the simulation (unit: ft3/s).  
+  - `Max. |Velocity| (ft/s)` The maximum (point) velocity of the pipe flow during the simulation (unit: ft/s). 
+  - `Max/Full Flow` The ratio of the maximum simulated flow rate to the full flow capacity (in terms of flow rate) of the pipe (unitless). 
+  - `Max/Full Depth` The ratio of the maximum simulated flow depth to the full flow capacity (in terms of flow depth) of the pipe (unitless).
+  - `GISLENGTH (m)` The length of the sewer pipe between two manholes (unit: m).hl{(You may ingore this one.)
 
-- Edge file
+- Edge features
   - `Invert Elev. (ft)`The elevation of the bottom of the manhole, measured from a defined datum (unit: ft).
-  -  `Rim Elev. (ft)`  The elevation of the top of the manhole (typically at or slightly above the ground surface, measured from a defined datum (unit: ft).   
-  -  `Depth (ft)` The depth of the bottom of the manhole, measured from the ground surface (unit: ft). 
-  -  `Avg. Depth (ft)`  The average water depth in the manhole during the simulation (unit: ft). 
-
-     Max. Depth (ft)& Float & 0.03 - 0.26 & The maximum water depth in the manhole during the simulation (unit: ft).\\
-
-     Max. HGL (ft)& Integer/Float & -5.28 - 1.91 & The maximum elevation of the hydraulic grade line (HGL) in the manhole during the simulation (unit: ft). HGL is the sum of the position head and the pressure head and describes the total energy of the fluid. \\ 
-
-     Rep. Max. Depth (ft)& Float & 0.03 - 0.26 & Representative values of the maximum water depth during the simulation (unit: ft).\\
-
-     Max. Lat. Inflow (cfs)& Integer/Float & 0 - 0.01  & The maximum rate of lateral inflows (runoff, groundwater flow, dry weather flow, etc.) during the simulation (unit: ft3/s). \\
-
-     Max. Total Inflow (cfs)& Integer/Float & 0 - 0.13 & The maximum rate of all inflows during the simulation (unit: ft3/s). \\
-
-     Total Lat. Inflow (MG)& Float & 0.001 - 0.007 & The volume of lateral inflows (runoff, groundwater flow, dry weather flow, etc.) during the simulation (unit: million gallon). \\ 
-
-     Total inflow (MG)& Float & 0.001 - 0.106 & The volume of all inflows during the simulation (unit: million gallon)\\
-
-     Min. Freeboard (ft)& Integer/Float & 6.58 - 20.28 & The minimum freeboard depth (unit: ft), i.e., the different between the rim elevation and the maximum HGL.\\ 
+  - `Rim Elev. (ft)`  The elevation of the top of the manhole (typically at or slightly above the ground surface, measured from a defined datum (unit: ft).   
+  - `Depth (ft)` The depth of the bottom of the manhole, measured from the ground surface (unit: ft). 
+  - `Avg. Depth (ft)`  The average water depth in the manhole during the simulation (unit: ft). 
+  - `Max. Depth (ft)`  The maximum water depth in the manhole during the simulation (unit: ft).
+  - `Max. HGL (ft)` The maximum elevation of the hydraulic grade line (HGL) in the manhole during the simulation (unit: ft). HGL is the sum of the position head and the pressure head and describes the total energy of the fluid.
+  - `Rep. Max. Depth (ft)` Representative values of the maximum water depth during the simulation (unit: ft).
+  - `Max. Lat. Inflow (cfs)` The maximum rate of lateral inflows (runoff, groundwater flow, dry weather flow, etc.) during the simulation (unit: ft3/s). 
+  - `Max. Total Inflow (cfs)` The maximum rate of all inflows during the simulation (unit: ft3/s). 
+  - `Total Lat. Inflow (MG)` The volume of lateral inflows (runoff, groundwater flow, dry weather flow, etc.) during the simulation (unit: million gallon). 
+  - `Total inflow (MG)` The volume of all inflows during the simulation (unit: million gallon).
+  - `Min. Freeboard (ft)` The minimum freeboard depth (unit: ft), i.e., the different between the rim elevation and the maximum HGL.
