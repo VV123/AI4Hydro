@@ -11,7 +11,7 @@
 
 ## Files and Field Descriptions
 
-- Node features
+- Node features - WW01_node.csv
   - `Length (ft)` The length of the sewer pipe between two manholes (unit: ft).
   - `Roughness` The roughness of the pipe materials (unitless). Larger roughness results in more friction loss. 
   - `Geom1(ft)` The diameter of the pipe (unit: ft). All pipes have circular sections.
@@ -22,7 +22,7 @@
   - `Max/Full Depth` The ratio of the maximum simulated flow depth to the full flow capacity (in terms of flow depth) of the pipe (unitless).
   - `GISLENGTH (m)` The length of the sewer pipe between two manholes (unit: m).hl{(You may ingore this one.)
 
-- Edge features
+- Edge features - WW01_edge.csv
   - `Invert Elev. (ft)`The elevation of the bottom of the manhole, measured from a defined datum (unit: ft).
   - `Rim Elev. (ft)`  The elevation of the top of the manhole (typically at or slightly above the ground surface, measured from a defined datum (unit: ft).   
   - `Depth (ft)` The depth of the bottom of the manhole, measured from the ground surface (unit: ft). 
