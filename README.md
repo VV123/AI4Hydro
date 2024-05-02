@@ -8,9 +8,6 @@
 
 ### Preprocessing [Link](https://github.com/VV123/AI4Hydro/tree/main/src)
 
-### Models
-- [Graph WaveNet]()
-- [Time-series Prediction]()
 
 ## Directory
 
@@ -22,17 +19,16 @@
 |   |   |-- hydro.nodes
 |   |   `-- hydro.edges
 |   `-- City
-|       |-- junctions.csv
-|       |-- conduit.csv
-|       |-- hydro.nodes
-|       `-- hydro.edges
+|       |-- TBD
+|       `-- TBD
 `-- src
     |-- preprocess
     |   |-- generate_adjacency_matrix.ipynb
-    |   |-- generate_adjacency_matrix.py
-    |   `-- TBD
+    |   `-- generate_adjacency_matrix.py
     `-- models
-        |-- Graph WaveNet
+        |-- GraphWaveNet
+        |-- STGCN
+        |-- ResNet
         `-- Transformer
 ```
 
