@@ -14,10 +14,8 @@
 ```
 |-- Data
 |   |-- University
-|   |   |-- junctions.csv
-|   |   |-- conduit.csv
-|   |   |-- hydro.nodes
-|   |   `-- hydro.edges
+|   |   |-- WW01.xls
+|   |   `-- Inflow Time Series
 |   `-- City
 |       |-- TBD
 |       `-- TBD
