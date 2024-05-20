@@ -1,5 +1,7 @@
 # AI-powered Diagnosis Augmented by Self-sustaining Sensing System for Intelligent Wastewater Infrastructure Management
 
+This repo hosts the data and code generated for this project.
+
 ## Datasets
 
 ### TAMU-CC University Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/uni)
