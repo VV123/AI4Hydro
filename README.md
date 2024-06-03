@@ -17,6 +17,8 @@ This repo hosts the data and code generated for this project.
 |-- Data
 |   |-- University
 |   |   |-- WW01.xls
+|   |   |-- WW01_edge.csv
+|   |   |-- WW01_node.csv
 |   |   `-- Inflow Time Series
 |   `-- City
 |       |-- TBD
