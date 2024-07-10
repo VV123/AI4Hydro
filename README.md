@@ -12,8 +12,8 @@ This repo hosts the data and code generated for this project.
 ## Directory
 
 ```
-|-- Data
-|   |-- University
+|-- data
+|   |-- uni (University)
 |   |   |-- WW01.xls
 |   |   |-- WW01_edge.csv
 |   |   |-- WW01_node.csv
