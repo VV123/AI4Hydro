@@ -4,9 +4,7 @@ This repo hosts the data and code generated for this project.
 
 ## Datasets
 
-### TAMU-CC University Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/uni)
-
-### Corpus Christi City Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/city)
+### University Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/uni)
 
 ### Preprocessing [Link](https://github.com/VV123/AI4Hydro/tree/main/src)
 
@@ -20,9 +18,8 @@ This repo hosts the data and code generated for this project.
 |   |   |-- WW01_edge.csv
 |   |   |-- WW01_node.csv
 |   |   `-- Inflow Time Series
-|   `-- City
-|       |-- TBD
-|       `-- TBD
+|   `-- SmartCover
+|       `-- SmartCover_6m_10min.csv
 `-- src
     |-- preprocess
     |   |-- generate_adjacency_matrix.ipynb
