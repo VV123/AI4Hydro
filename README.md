@@ -6,7 +6,7 @@ This repo hosts the data and code generated for this project.
 
 ### University Site [Link](https://github.com/VV123/AI4Hydro/tree/main/data/uni)
 
-### Preprocessing [Link](https://github.com/VV123/AI4Hydro/tree/main/src)
+### Preprocessing [Link](https://github.com/VV123/AI4Hydro/tree/main/src/preprocess)
 
 
 ## Directory
