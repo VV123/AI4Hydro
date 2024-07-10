@@ -1,4 +1,4 @@
-# Spatio-temporal Models
+# Spatio-temporal Models (including baselines)
 
 - GraphWaveNet
   
@@ -17,6 +17,12 @@
      self-supervised learning approach is particularly adept at learning underlying spatio-temporal features, thereby facilitating improved
      performance in the subsequent supervised learning task.
   
-- STG-Mamba [paper](https://arxiv.org/pdf/2403.12418) [code](https://github.com/LincanLi98/STG-Mamba)
+- STG-Mamba [paper](https://arxiv.org/pdf/2403.12418) [code](https://github.com/LincanLi98/STG-Mamba) 
   
 - GMAN
+     
+- STResNet
+  
+- HydroNet
+  
+- Transformer [paper](https://arxiv.org/abs/1706.03762) 
