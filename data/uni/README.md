@@ -36,7 +36,11 @@
   - `Total inflow (MG)` The volume of all inflows during the simulation (unit: million gallon).
   - `Min. Freeboard (ft)` The minimum freeboard depth (unit: ft), i.e., the different between the rim elevation and the maximum HGL.
 
-- WW01.csv
+- WW01_v3.csv
   
     Time series water depth for each node.
+
+- Flow_rate.csv
+
+    Processed file from Inflow Time Series_v3 folder. It includes the inflow rate for each node. 
 
